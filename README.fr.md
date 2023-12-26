@@ -1,3 +1,7 @@
+# Electricity2Food
+
+![画板](https://github.com/KL-RA/Electricity2Food/assets/19252069/67edd3be-34f5-47bf-9b48-f68a427a045a)
+
 À propos
 
 Electricity2Food, ci-après désigné sous l'acronyme E2F, a pour but de produire efficacement de la nourriture dans une installation intégrée grâce à la technologie robotique automatisée. L'objectif est de mettre en place un système capable de transformer l'énergie électrique en nourriture. Cette installation sera équipée de robots automatisés, chargés de la plantation, de la récolte et de la cuisson.
