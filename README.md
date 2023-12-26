@@ -14,6 +14,7 @@ For more details, please visit the link below for a project introduction in your
 
 * [简体中文](README.zh-CN.md)
 * [English](README.en.md)
+* [繁體中文](README.zh-2.md)
 * [Français (法语)](README.fr.md)
 * [Deutsch (德语)](README.de.md)
 * [Русский (俄语)](README.ru.md)
