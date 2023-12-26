@@ -1,5 +1,7 @@
 # Electricity2Food
 
+<img src="https://github.com/KL-RA/Electricity2Food/assets/19252069/67edd3be-34f5-47bf-9b48-f68a427a045a" width="200" height="200">
+
 在现代科技的推动下，人类在获取食物方面已经取得了巨大的进步，理论上可以确保人人都不愁吃喝。然而，现实却是，全球仍有许多人面临着食物短缺的困境。为了生存，无数人被迫放弃追求梦想；为了生存，无数人无法施展自己独特的才华以造福世界。正是在这样的背景下，E2F项目应运而生。
 
 Driven by modern technology, humanity has made significant progress in food acquisition, theoretically ensuring that everyone has enough to eat and drink. However, the reality is that many people around the world still face food shortages. For survival, countless individuals are forced to give up their dreams; for survival, many are unable to utilize their unique talents to benefit the world. It is against this backdrop that the E2F project was born.
