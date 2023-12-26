@@ -1,10 +1,10 @@
 # Electricity2Food
 
+![画板](https://github.com/KL-RA/Electricity2Food/assets/19252069/67edd3be-34f5-47bf-9b48-f68a427a045a)
+
 ## About
 
 Electricity2Food, hereafter referred to as E2F, aims to efficiently produce food in an integrated facility using automated robotic technology. The goal is to establish a system that converts electrical energy into food. This facility will be equipped with automated robots responsible for planting, harvesting, and cooking.
-
-![画板](https://github.com/KL-RA/Electricity2Food/assets/19252069/67edd3be-34f5-47bf-9b48-f68a427a045a)
 
 ## Welcome
 
