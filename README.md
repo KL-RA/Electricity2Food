@@ -1,14 +1,17 @@
 # Electricity2Food
 
 通过集成自动化机器人技术和可持续发展理念，打造一个能够从电能转换为食物的封闭生态系统。
+
 To create a self-contained ecosystem that transforms electricity into food, integrating automated robotic technology with sustainable development practices.
 
 #### 关于 About
 
 Electricity2Food项目，以下简称E2F。
+
 Introducing the Electricity2Food project, hereinafter referred to as E2F.
 
 E2F 的最终目的，是实现一个输入电能即可输出食物，自动化、高效的食品生产设施。
+
 The ultimate goal of E2F is to realize an automated and efficient food production facility that outputs food simply by inputting electrical energy.
 
 #### 欢迎 Welcome
