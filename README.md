@@ -15,8 +15,8 @@ For more details, please visit the link below for a project introduction in your
 * [简体中文](README.zh-CN.md)
 * [English](README.en.md)
 * [繁體中文](README.zh-2.md)
-* [Français (法语)](README.fr.md)
-* [Deutsch (德语)](README.de.md)
-* [Русский (俄语)](README.ru.md)
+* [Français](README.fr.md)
+* [Deutsch](README.de.md)
+* [Русский](README.ru.md)
 
 ![E2F](https://github.com/KL-RA/Electricity2Food/assets/19252069/c4833c1a-732b-495c-a2d5-4a86a7616eaa)
