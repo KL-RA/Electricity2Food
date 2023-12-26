@@ -2,6 +2,8 @@
 
 ![画板](https://github.com/KL-RA/Electricity2Food/assets/19252069/67edd3be-34f5-47bf-9b48-f68a427a045a)
 
+<img src="https://github.com/KL-RA/Electricity2Food/assets/19252069/67edd3be-34f5-47bf-9b48-f68a427a045a" width="200" height="200">
+
 ## 关于
 
 Electricity2Food 以下简称 E2F，E2F 旨在通过自动化机器人技术，在一体化设施中高效生产食物，目标是建立一个将电能转换为食物的系统。这个设施将配备自动化机器人，负责种植、收割和烹饪
