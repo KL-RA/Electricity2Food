@@ -15,4 +15,4 @@ For more details, please visit the link below for a project introduction in your
 * [English](README.en.md)
 * [中文](README.zh-CN.md)
 
-![画板](https://github.com/KL-RA/Electricity2Food/assets/19252069/67edd3be-34f5-47bf-9b48-f68a427a045a)
+![E2F](https://github.com/KL-RA/Electricity2Food/assets/19252069/c4833c1a-732b-495c-a2d5-4a86a7616eaa)
