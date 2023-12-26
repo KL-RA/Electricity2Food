@@ -4,13 +4,13 @@ To create a self-contained ecosystem that transforms electricity into food, inte
 
 ![画板](https://github.com/KL-RA/Electricity2Food/assets/19252069/67edd3be-34f5-47bf-9b48-f68a427a045a)
 
-#### About
+## About
 
 Introducing the Electricity2Food project, hereinafter referred to as E2F.
 
 The ultimate goal of E2F is to realize an automated and efficient food production facility that outputs food simply by inputting electrical energy.
 
-#### Welcome
+## Welcome
 
 Welcome to E2F, where our ambition is to create a self-contained ecosystem that transforms electricity into food, integrating automated robotic technology with sustainable development practices.
 
