@@ -1,4 +1,5 @@
 # Electricity2Food
+![画板](https://github.com/KL-RA/Electricity2Food/assets/19252069/67edd3be-34f5-47bf-9b48-f68a427a045a)
 
 通过集成自动化机器人技术和可持续发展理念，打造一个能够从电能转换为食物的封闭生态系统。
 
