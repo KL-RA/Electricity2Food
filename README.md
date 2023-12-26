@@ -4,6 +4,9 @@
 
 To create a self-contained ecosystem that transforms electricity into food, integrating automated robotic technology with sustainable development practices.
 
+* [English](README.en.md)
+* [中文](README.zh-CN.md)
+
 ![画板](https://github.com/KL-RA/Electricity2Food/assets/19252069/67edd3be-34f5-47bf-9b48-f68a427a045a)
 
 #### 关于 About
