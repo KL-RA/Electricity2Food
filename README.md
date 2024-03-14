@@ -1,4 +1,4 @@
-# Electricity2Food
+# Power2Food
 
 <img src="https://github.com/KL-RA/Electricity2Food/assets/19252069/67edd3be-34f5-47bf-9b48-f68a427a045a" width="200" height="200">
 
